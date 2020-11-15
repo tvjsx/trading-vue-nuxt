@@ -22,11 +22,15 @@ export default {
     // components: { TradingVue }
     computed: {
         ext() {
+            // TODO: For some reason the injections are initially
+            // 'undefined'
             return Object.values(this.$ChartExtensions || {})
         }
     },
     data() {
         return {
+            // TODO: For some reason the injections are initially
+            // 'undefined'
             tradingVue: this.$DataCube ? new this.$DataCube({
                 chart: {
                     type: 'Candles',

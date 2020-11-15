@@ -14,4 +14,4 @@ npm i
 npm run dev
 ```
 
-Thanks @Bearfinn for making the initial boilerplate. 
+Thanks to @Bearfinn for making the initial boilerplate. 
