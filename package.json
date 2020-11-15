@@ -1,11 +1,12 @@
 {
-  "scripts": {
-    "dev": "nuxt"
-  },
-  "dependencies": {
-    "nuxt": "^2.14.7",
-    "trading-vue-js": "^0.8.0",
-    "tvjs-overlays": "^0.2.1",
-    "tvjs-xp": "^0.2.1"
-  }
+    "name": "trading-vue-nuxt",
+    "scripts": {
+        "dev": "nuxt"
+    },
+    "dependencies": {
+        "nuxt": "^2.14.7",
+        "trading-vue-js": "^0.8.0",
+        "tvjs-overlays": "^0.2.1",
+        "tvjs-xp": "^0.2.1"
+    }
 }

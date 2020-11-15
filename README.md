@@ -13,3 +13,5 @@ yarn dev
 npm i
 npm run dev
 ```
+
+Thanks @Bearfinn for making the initial boilerplate. 
