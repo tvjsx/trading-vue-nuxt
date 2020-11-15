@@ -1,0 +1,4 @@
+node_modules/
+.nuxt
+.idea
+yarn-error.log
